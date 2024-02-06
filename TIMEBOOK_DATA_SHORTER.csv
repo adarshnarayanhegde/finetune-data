@@ -1,0 +1,2400 @@
+﻿text
+"###Human:
+Record 45 minutes for Skyline Design on Tuesday July 16th at 3:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-07-16T15:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 30 minutes on Aqua Dynamics for Last Thursday at 4:45 PM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""INTERCOAP.1.1"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""0.5"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2024-01-25T16:45:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 20 minutes on Virtual Reality for April 3rd at 5:15 PM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""INTERCOAP.1.1"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""0.3333"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2023-04-03T17:15:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 45 minutes on Mars Rover for Wednesday April 17th at 12:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-04-17T12:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 15 minutes for Quantum Computing on Saturday July 5th at 4:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.25"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-07-05T16:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 30 minutes on BioTech Breakthrough for July 12th at 11:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""0.5"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-07-12T11:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 45 minutes for AI Integration on Sunday August 13th at 5:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-08-13T17:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 20 minutes on Green Energy for April 5th at 9:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.3333"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-04-05T09:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 15 minutes on NanoTech Breakthrough for Thursday January 19th at 4:00 PM.
+
+###Assistant:
+{
+""TimeSheetDataFields"": {
+""ActivityType"": ""T002"",
+""WBSElement"": ""INTERCOAP.1.1"",
+""TimeSheetNote"": ""API Posting new"",
+""RecordedHours"": ""0.25"",
+""RecordedQuantity"": ""1"",
+""HoursUnitOfMeasure"": ""H""
+},
+""CompanyCode"": ""1710"",
+""PersonWorkAgreement"": ""50000058"",
+""TimeSheetDate"": ""2023-01-19T16:00:00"",
+""TimeSheetOperation"": ""C"",
+""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 30 minutes for Quantum Mechanics on Monday June 3 2024 at 3:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-06-03T15:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 45 minutes for ""Virtual Augmentation"" on Wednesday August 2 2024 at 1:15 PM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""INTERCOAP.1.1"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""0.75"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2024-08-02T13:15:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 25 minutes for Smart Cities on Tuesday August 15th at 2:45 PM.
+
+###Assistant:
+{
+""TimeSheetDataFields"": {
+""ActivityType"": ""T002"",
+""WBSElement"": ""INTERCOAP.1.1"",
+""TimeSheetNote"": ""API Posting new"",
+""RecordedHours"": ""0.42"",
+""RecordedQuantity"": ""1"",
+""HoursUnitOfMeasure"": ""H""
+},
+""CompanyCode"": ""1710"",
+""PersonWorkAgreement"": ""50000058"",
+""TimeSheetDate"": ""2023-08-15T14:45:00"",
+""TimeSheetOperation"": ""C"",
+""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 15 minutes on Oceanic Preservation for Wednesday June 7 2024 at 4:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.25"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-06-07T16:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 40 minutes on Project Quantum Leap for Tuesday August 22nd at 11:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.67"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-08-22T11:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 35 minutes for Augmented Reality on Monday June 19 2024 at 10:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""0.5833"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-06-19T10:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 30 minutes on Medical Breakthrough for Wednesday September 12th at 11:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""0.5"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-09-12T11:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 20 minutes for Renewable Energy on Monday July 3rd at 3:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.3333"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-07-03T15:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 45 minutes for Project Harmony on Saturday August 5 2024 at 2:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-08-05T14:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 15 minutes for Space Exploration on Friday January 12th at 4:00 PM.
+
+###Assistant:
+{
+""TimeSheetDataFields"": {
+""ActivityType"": ""T002"",
+""WBSElement"": ""INTERCOAP.1.1"",
+""TimeSheetNote"": ""API Posting new"",
+""RecordedHours"": ""0.25"",
+""RecordedQuantity"": ""1"",
+""HoursUnitOfMeasure"": ""H""
+},
+""CompanyCode"": ""1710"",
+""PersonWorkAgreement"": ""50000058"",
+""TimeSheetDate"": ""2024-01-12T16:00:00"",
+""TimeSheetOperation"": ""C"",
+""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 30 minutes for Autonomous Vehicles on Thursday August 17th at 2:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-08-17T14:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 25 minutes on Advanced Materials for Fri
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.4166666666666667"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-03T00:25:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 45 minutes for Disney Project on Tuesday June 26th at 3:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-06-26T15:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 30 minutes on Disney Project for Last Thursday at 4:45 PM.
+
+###Assistant:
+{
+""TimeSheetDataFields"": {
+""ActivityType"": ""T002"",
+""WBSElement"": ""PCDISNEY.1.5"",
+""TimeSheetNote"": ""API Posting new"",
+""RecordedHours"": ""0.5"",
+""RecordedQuantity"": ""1"",
+""HoursUnitOfMeasure"": ""H""
+},
+""CompanyCode"": ""1710"",
+""PersonWorkAgreement"": ""50000058"",
+""TimeSheetDate"": ""2024-01-25T16:45:00"",
+""TimeSheetOperation"": ""C"",
+""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 20 minutes on Disney Project for April 8th at 5:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.3333333333333333"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-04-08T17:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 45 minutes on ""Disney Project"" for Wednesday May 14th at 12:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-05-14T12:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 8 minutes for Disney Project on Sunday September 23rd at 4:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.13"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-09-23T16:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 30 minutes for Disney Project on Monday October 14 2024 at 3:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-10-14T15:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 45 minutes on ""Disney Project"" for Tuesday August 20th at 1:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-08-20T13:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 15 minutes on Disney Project for Saturday December 8th at 2:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""PCDISNEY.1.5"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""0.25"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-12-08T14:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 35 minutes for Disney Project on Friday September 13th at 3:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.58"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-09-13T15:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 20 minutes on Disney Project for Thursday July 4th at 4:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.3333333333333333"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-07-04T16:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 30 minutes on Disney Project for Wednesday December 5th at 11:30 AM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""PCDISNEY.1.5"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""0.5"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2023-12-05T11:30:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 40 minutes on Disney Project for Friday January 10th at 11:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""0.67"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-01-10T11:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 2 hours on the Phoenix Project for next Monday at 10:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-05T10:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 1 hour and 30 minutes on the Alpha Initiative for Wednesday at 3:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-01-31T15:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 4 hours for the Starlight Venture on July 15th, 2024, at 2:30 PM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""INTERCOAP.1.1"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""4"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2024-07-15T14:30:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 3 hours on the Evergreen Development project for Last Thursday at 1:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""3"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-01-25T13:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 2 hours and 45 minutes on the Silver Summit for Friday June 7th at 9:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-06-07T09:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 5 hours for the Lunar Exploration project on Saturday at 11:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""5"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-04T11:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 2 hours on the Sunset Harmony for Monday August 12th at 4:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""PCDISNEY.1.5"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-08-12T16:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 1 hour on the Neon Dreams project for next Tuesday at 1:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-06T13:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 4 hours and 15 minutes on the Mystic Odyssey for Last Friday at 10:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""4.25"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-11-10T10:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 2 hours on the Horizon Quest project on April 20th, 2024, at 3:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-04-20T15:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 3 hours for the Cosmic Fusion on Thursday September 5th at 2:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""3"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-09-05T14:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 1 hour and 45 minutes on the Eagle Crest for Wednesday at 11:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-01T11:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 5 hours on the Azure Heights project for Last Monday at 9:15 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""5"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-01-30T09:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 2 hours and 30 minutes on the Quantum Leap for July 18th, 2024, at 1:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-07-18T13:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 3 hours on the ""Celestial Symphony"" project for Saturday at 10:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""3"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-04T10:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 4 hours for the Project Nebula on August 23rd, 2024, at 3:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""4"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-08-23T15:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 1 hour on the Crimson Horizon for Friday October 4th at 2:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-10-04T14:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 2 hours and 15 minutes on the Astral Nexus project for next Thursday at 11:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2.25"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-01T11:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 3 hours on the Galactic Quest for Monday August 26th at 10:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""3"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-08-26T10:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 4 hours on the Cerulean Vision project on September 15th, 2024, at 4:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""4"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-09-15T16:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 1 hour and 30 minutes for the Vivid Odyssey on Last Wednesday at 1:15 PM.
+
+###Assistant:
+{
+""TimeSheetDataFields"": {
+""ActivityType"": ""T002"",
+""WBSElement"": ""INTERCOAP.1.1"",
+""TimeSheetNote"": ""API Posting new"",
+""RecordedHours"": ""1.5"",
+""RecordedQuantity"": ""1"",
+""HoursUnitOfMeasure"": ""H""
+},
+""CompanyCode"": ""1710"",
+""PersonWorkAgreement"": ""50000058"",
+""TimeSheetDate"": ""2024-01-24T13:15:00"",
+""TimeSheetOperation"": ""C"",
+""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 2 hours on the Radiant Nebula for Saturday November 2nd at 3:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-11-02T15:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 4 hours on the Solar Symphony project for next Tuesday at 10:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""4"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-06T10:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 3 hours and 45 minutes on the Quantum Harmony for December 12th, 2024, at 2:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""3.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-12-12T14:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 1 hour on the Mystical Mirage project on Thursday at 9:15 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-01T09:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 5 hours for the Ethereal Heights on January 10th, 2024, at 11:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-01-10T11:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 2 hours and 30 minutes on the Lunar Legacy for next Friday at 3:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-02T15:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 3 hours on the Celestial Cascade project for Saturday February 18th at 1:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""3"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-18T13:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 4 hours on the Polaris Quest for March 22nd, 2024, at 10:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""4"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-03-22T10:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 1 hour and 45 minutes on the Stellar Symphony project on Last Thursday at 11:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-01-25T11:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 3 hours for the Aurora Venture on April 5th, 2024, at 2:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""3"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-04-05T14:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 2 hours on the Infinity Horizon for Monday at 9:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-06T09:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 4 hours 15 minutes on the Nebula Nexus project for next Tuesday at 4:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""4.25"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-07T16:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 1 hour on the Galactic Odyssey for Wednesday May 8th at 1:30 PM.
+
+###Assistant:
+{
+""TimeSheetDataFields"": {
+""ActivityType"": ""T002"",
+""WBSElement"": ""INTERCOAP.1.1"",
+""TimeSheetNote"": ""API Posting new"",
+""RecordedHours"": ""1"",
+""RecordedQuantity"": ""1"",
+""HoursUnitOfMeasure"": ""H""
+},
+""CompanyCode"": ""1710"",
+""PersonWorkAgreement"": ""50000058"",
+""TimeSheetDate"": ""2024-05-08T13:30:00"",
+""TimeSheetOperation"": ""C"",
+""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 2 hours on the Astral Harmony project on Last Monday at 10:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-01-23T10:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 5 hours for the Cosmic Cascade on June 14th, 2024, at 3:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-06-14T15:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 1 hour and 30 minutes on the Sapphire Summit for Thursday at 2:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""1.5"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-01T14:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 2 hours on the Lunar Legacy project for Friday July 26th at 11:15 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""2"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-07-26T11:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 3 hours on the ""Celestial Quest"" for August 8th, 2024, at 9:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""3"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-08-08T09:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 4 hours and 30 minutes on the Polaris Symphony project on Saturday at 1:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""4.5"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-04T13:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 6 and a half hours on the Eagle Crest for next Thursday at 10:15 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""6.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-02T10:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 3 hours on the Quantum Harmony for Monday September 9th at 3:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""3"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-09-09T15:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 1 hour on the Radiant Nebula project for Last Wednesday at 2:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""1"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-01-25T14:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 2 hours 45 minutes on the Astral Nexus for October 17th, 2024, at 11:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2.75"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-10-17T11:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 3 hours on the Celestial Cascade project for Sunday at 9:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""3"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-04T09:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 4 hours for the Mystic Mirage on November 5th, 2024, at 1:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""4"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-11-05T13:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 1 hour and 30 minutes on the Ethereal Heights for next Tuesday at 3:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-06T15:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 2 and a half hours on the Aurora Venture project for Wednesday December 18th at 11:00 AM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""INTERCOAP.1.1"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""2.5"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2023-12-18T11:00:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 3 hours on the Infinity Horizon for January 22nd, 2024, at 2:30 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""3"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-01-22T14:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 4 hours on the Stellar Symphony project on Last Thursday at 10:15 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""4"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-01-25T10:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 1 hour for the Polaris Quest on February 7th, 2024, at 3:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-02-07T15:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 2 hours and 30 minutes on the Cosmic Cascade for Friday at 1:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""2.5"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-03T13:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 3 hours on the Sapphire Summit project for Saturday March 30th at 9:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""3"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-03-30T09:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 4 hours on the Nebula Nexus for April 12th, 2024, at 10:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""4"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-04-12T10:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 1 hour on the Galactic Odyssey project on Last Monday at 4:00 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-01-30T16:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 5 hours for the Astral Harmony on May 16th, 2024, at 11
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""5"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-05-16T11:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 2 hours on the Cosmic Cascade for next Friday at 2:15 PM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""INTERCOAP.1.1"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""2"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2024-02-02T14:15:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 4 hours and 15 minutes on the Polaris Symphony project for Saturday June 29th at 10:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""4.25"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-06-29T10:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 1 hour on the Eagle Crest on July 10th, 2024, at 11:45 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-07-10T11:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 2 hours on the Quantum Harmony project for Sunday at 1:00 PM.
+
+###Assistant:
+{
+""TimeSheetDataFields"": {
+""ActivityType"": ""T002"",
+""WBSElement"": ""INTERCOAP.1.1"",
+""TimeSheetNote"": ""API Posting new"",
+""RecordedHours"": ""2"",
+""RecordedQuantity"": ""1"",
+""HoursUnitOfMeasure"": ""H""
+},
+""CompanyCode"": ""1710"",
+""PersonWorkAgreement"": ""50000058"",
+""TimeSheetDate"": ""2023-02-04T13:00:00"",
+""TimeSheetOperation"": ""C"",
+""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 3 hours for the Radiant Nebula on August 3rd, 2024, at 9:30 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+ ""ActivityType"": ""T002"",
+ ""WBSElement"": ""INTERCOAP.1.1"",
+ ""TimeSheetNote"": ""API Posting new"",
+ ""RecordedHours"": ""3"",
+ ""RecordedQuantity"": ""1"",
+ ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-08-03T09:30:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Schedule 1 hour and 30 minutes on the Astral Nexus for next Tuesday at 2:45 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""1.5"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-02-07T14:45:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Enter 2 hours on the Celestial Cascade project for Wednesday September 11th at 10:00 AM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+   ""ActivityType"": ""T002"",
+   ""WBSElement"": ""INTERCOAP.1.1"",
+   ""TimeSheetNote"": ""API Posting new"",
+   ""RecordedHours"": ""2"",
+   ""RecordedQuantity"": ""1"",
+   ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2023-09-11T10:00:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Put Down 3 hours on the Mystic Mirage for October 24th, 2024, at 3:15 PM.
+
+###Assistant:
+{
+ ""TimeSheetDataFields"": {
+  ""ActivityType"": ""T002"",
+  ""WBSElement"": ""INTERCOAP.1.1"",
+  ""TimeSheetNote"": ""API Posting new"",
+  ""RecordedHours"": ""3"",
+  ""RecordedQuantity"": ""1"",
+  ""HoursUnitOfMeasure"": ""H""
+ },
+ ""CompanyCode"": ""1710"",
+ ""PersonWorkAgreement"": ""50000058"",
+ ""TimeSheetDate"": ""2024-10-24T15:15:00"",
+ ""TimeSheetOperation"": ""C"",
+ ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Record 4 hours on the Ethereal Heights project on Saturday at 11:30 AM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""INTERCOAP.1.1"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""4"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2023-02-04T11:30:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+"###Human:
+Book 1 hour on the Aurora Venture for next Thursday at 4:00 PM.
+
+###Assistant:
+{
+  ""TimeSheetDataFields"": {
+    ""ActivityType"": ""T002"",
+    ""WBSElement"": ""INTERCOAP.1.1"",
+    ""TimeSheetNote"": ""API Posting new"",
+    ""RecordedHours"": ""1"",
+    ""RecordedQuantity"": ""1"",
+    ""HoursUnitOfMeasure"": ""H""
+  },
+  ""CompanyCode"": ""1710"",
+  ""PersonWorkAgreement"": ""50000058"",
+  ""TimeSheetDate"": ""2023-02-01T16:00:00"",
+  ""TimeSheetOperation"": ""C"",
+  ""TimeSheetIsReleasedOnSave"": false
+}"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
